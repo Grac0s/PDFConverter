@@ -1,7 +1,5 @@
 # Universal PDF Converter
 
-## Description
-
 Was tired of paid PDF converters or having to upload personal or sensitive data to be converted on the internet, so I decided to make this. It supports converting multiple file types to PDF, runs completely **locally**, and is **free**. Your personal data stays safe on your own machine.
 
 ---
