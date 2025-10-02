@@ -60,7 +60,4 @@ A simple GUI window will open. Click **Choose File** and select any supported fi
 ## License
 
 This project is free and open source — use it however you like.
-
 ---
-
-Feel free to reach out if you have questions or want to contribute!
